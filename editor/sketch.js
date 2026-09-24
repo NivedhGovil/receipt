@@ -29,7 +29,7 @@ export function drawReceipt(p) {
   p.textSize(13);
 
   p.text(
-    "A black hole, a magnificent object.",
+    "Nivedh Govil",
     W / 2,
     22
   );
